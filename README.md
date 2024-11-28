@@ -1,6 +1,4 @@
 # Chroma examples
 
-https://docs.trychroma.com/getting-started
-
-
-
+References:
+- [Chroma: Getting started](https://docs.trychroma.com/getting-started)
