@@ -2,7 +2,7 @@ import chromadb
 from chromadb.utils import embedding_functions
 
 # Understanding Embedding Functions in Vector Databases
-# ==================================================
+# =====================================================
 #
 # Embedding Function: A method that converts data (text, images, etc.) into numerical vectors.
 # Different embedding functions are optimized for different use cases:
