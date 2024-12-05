@@ -188,3 +188,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Sentence Transformers Documentation](https://www.sbert.net/)
 - [Hugging Face Model Hub](https://huggingface.co/models)
 - [Vector Similarity Search Guide](https://www.pinecone.io/learn/vector-similarity/)
+
+## ✍️ Blog article
+
+[Play with Chroma DB to understand how vector databases work - Tomasz Dworakowski Blog](https://www.tdworakowski.com/2024/12/play-with-chroma-db-to-understand-how.html)
